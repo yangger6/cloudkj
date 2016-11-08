@@ -1,0 +1,26 @@
+.brand-logo img{
+    background-size: 100% 100%;
+    width: 37px;
+}
+#nav div >ul li a:hover, nav ul li.active{
+    background: rgba(0,0,0,.7);
+}
+#nav{
+    background: rgba(0,0,0,.4);
+}
+#dropdown1 li> a,.dropdown-content li>a, .dropdown-content li>span{
+    color: #f56f30
+}
+.main{
+    position: absolute;
+    left:0;
+    right:0;
+    top:0;
+    bottom:0;
+}
+.contain{
+    position: absolute;
+    width: 100%;
+}
+.col ul li a:hover{color:orange}
+#user-item img{border: 1px solid #eee}

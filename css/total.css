@@ -1,0 +1,34 @@
+@media screen and (max-width: 600px) {
+    .nav-wrapper .brand-logo img{background-size: 100% 100%;width: 32px;}
+    .indicators{display: none}
+}
+@media screen and (max-width: 1500px) {
+    #gulid>div{width: 100%}
+}
+@media screen and (max-width: 550px) {
+    .foot-sy{text-align: center}
+    .foot-sy img{margin:0 auto}
+    #user-item > div > div{width: 50%}
+    #gulid>div>div>div{display: block}
+    #gulid>div>div>div>div:first-child{min-width: 115px;}
+    #gulid>div>div>div>div:last-child{margin-left: 1px;     width: 50%; }
+}
+::-webkit-scrollbar{
+    width: 8px;
+    height: 8px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: rgba(0,0,0,.3);
+    border-radius: 6px;
+}
+::-webkit-scrollbar-track{
+    background-color: #ddd;
+    border-radius: 6px;
+}
+html,body{height:100%;}
+body{overflow: auto}
+.logo-img{
+    width: 220px;
+    display: block;
+    margin: 0 auto;
+}
