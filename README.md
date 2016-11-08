@@ -1,2 +1,2 @@
 # cloudkj
-  `滚蛋`
+  `go egg`
