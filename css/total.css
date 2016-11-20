@@ -32,3 +32,13 @@ body{overflow: auto}
     display: block;
     margin: 0 auto;
 }
+.brand-logo img{
+    background-size: 100% 100%;
+    width: 37px;
+}
+#nav div >ul li a:hover, nav ul li.active{
+    background: rgba(0,0,0,.7);
+}
+#nav{
+    background: rgba(0,0,0,.4);
+}
