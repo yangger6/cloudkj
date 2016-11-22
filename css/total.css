@@ -42,3 +42,6 @@ body{overflow: auto}
 #nav{
     background: rgba(0,0,0,.4);
 }
+#dropdown1 li> a,.dropdown-content li>a, .dropdown-content li>span{
+    color: #f56f30
+}
