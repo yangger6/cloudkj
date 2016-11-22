@@ -49,3 +49,13 @@ i{
     padding-bottom: 10px;
     border-bottom: 2px solid crimson;
 }
+
+.circle-img i{
+    font-size: 5em;
+    color: gray;
+    text-align: center;
+    line-height: 120px;
+}
+.circle-img i:hover{
+    color: black;
+}
